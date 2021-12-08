@@ -1,5 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+<p align="center"><h2>Gift Card Construct with VueJS & Laravel using Google Fonts API</h2></p>
+
 
 <p align="center"><a href="http://f0604144.xsph.ru/gift" target="_blank"><img src="https://github.com/tomicato/upwork_gift_card_constuct/blob/main/Laravel.png" width="800"></a></p>
 
